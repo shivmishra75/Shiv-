@@ -1,4 +1,9 @@
-# Shiv-Mishra 
-## Starting understanding about the git/ Version control System, Please Help if you can...
+Rearrange
+===================
 
-`Plese add your name their first `
+This module is used for rearranging names.
+Turns "LastName,FirstName" into "Firstname LastName"
+
+# Example
+
+Calling `rearrange_name("Turing, Alan")` will return `"Alan Turing"`
