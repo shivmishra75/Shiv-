@@ -1,4 +1,4 @@
 # Shiv-Mishra 
-## Starting understanding about the git/ Version control System, Please Help if you can...
+## Starting understanding the git/ Version Control System, Please Help if you can...
 
-`Plese add your name their first `
+`Please add your name there first `
